@@ -1,1 +1,2 @@
-Annapurna 
+Annapurna
+MySQL is a database
